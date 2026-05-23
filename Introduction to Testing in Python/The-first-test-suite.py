@@ -1,3 +1,4 @@
+import pytest
 def multiple_of_two(num):
     if num == 0:
         raise(ValueError)
